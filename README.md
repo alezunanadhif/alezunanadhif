@@ -2,8 +2,8 @@
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
-- 📚 I'm Nadhif im Student at IDN Boarding School 
-- 🧠 Currently learning about Front End Developer and Back End Developer
+- 📚 I'm Nadhif and i'm Student at IDN Boarding School 
+- 🧠 Currently learning about Front End Developer, Back End Developer, and Fullstack Developer
 - 👩‍💻 Lead as a good person who can make my parents proud and happy
 - 🧪 Looking for opportunities to do what I can, and doing everything I can
 
